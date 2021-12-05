@@ -1,3 +1,4 @@
+google.com, pub-8922603418585238, DIRECT, f08c47fec0942fa0
 #Updated December 3rd, 2021
 #Appodeal
 appodeal.com, 20384, RESELLER
